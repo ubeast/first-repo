@@ -1,0 +1,6 @@
+The Green Checkmark Protocol
+A Beginner’s Guide to Professional Project Management with GitHub
+The jump from "writing code" to "managing a professional project" is the single hardest hurdle for new developers. This guide provides a step-by-step path to starting a new project using best-in-class processes. We use uv to ensure your project is organized like a professional's from Day 1.
+
+
+We have chosen the uv init --lib workflow because it enforces the Standard Python src Layout, the blueprint used by professional engineers to build scalable, production-ready software. By nesting your code within a src/ directory, you create a physical barrier that prevents Python from accidentally importing "broken" local code, ensuring that what you test is exactly what will run in the real world. This "future-proofs" your project from day one; if you ever decide to share your code as a library or a private package, you won't have to endure the technical headache of manually restructuring your folders or fixing broken import paths. Combined with uv, you gain lightning-fast performance and a rock-solid uv.lock file that guarantees your project will work identically on your Mac, a teammate's computer, or a cloud server. This approach eliminates the "it works on my machine" excuse and replaces it with a professional, automated foundation that grows with your ambitions.
