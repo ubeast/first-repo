@@ -105,10 +105,3 @@ git push -u origin main
 * 🧪 Add tests in `tests/` and run them with `pytest`
 * 🔄 Commit changes regularly and push to GitHub
 * 📦 Explore publishing your project as a Python package later
-
----
----
-
-If you want, I can also **add a small visual diagram showing the “Local ↔ GitHub handshake”** to make it extremely clear for beginners.
-
-Do you want me to do that next?
