@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="first-project" src="https://github.com/user-attachments/assets/fd9b6d79-3717-4fa4-b2cc-224b7f3aa5e6" />
+
 # 🐍 **Easy-to-Use Python Project Setup: Connect GitHub to Your Local**
 
 **⚡ Future-proof & ready for packaging, perfect for beginners**
@@ -105,3 +108,4 @@ git push -u origin main
 * 🧪 Add tests in `tests/` and run them with `pytest`
 * 🔄 Commit changes regularly and push to GitHub
 * 📦 Explore publishing your project as a Python package later
+
